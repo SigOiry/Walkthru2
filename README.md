@@ -1,2 +1,6 @@
 # Walkthru2
-Sample repository for walkthru 2  of fast.ai course
+
+## Introduction
+
+This is a sample repository for walkthru 2  of fast.ai course.
+
